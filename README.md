@@ -1,2 +1,4 @@
 # wasabeam
-Private repository
+# About me
+- I am student.
+- I am japanese.
